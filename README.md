@@ -25,7 +25,7 @@
   - 📫 Reach me: <a href="mailto: abdukarimov.dev@gmail.com" target="_blank"> abdukarimov.dev@gmail.com </a> 
  
 ## 🔨 Languages and Tools:
-<img align="left" alt="HTML" width="26px" src="/images/html.svg" />
+<img align="left" alt="HTML" width="26px" src="https://github.com/GBakirov/GBakirov/blob/main/images/html.svg" />
 <img align="left" alt="CSS" width="26px" src="./images/css.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667" />
 <img align="left" alt="TypeScript" width="26px" src="https://camo.githubusercontent.com/ff660f3b34106793e1a8008592156f3127d8465adc82e103b9f2e0ce012c70ec/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747970657363726970742e737667" />
