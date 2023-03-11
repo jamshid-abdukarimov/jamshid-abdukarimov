@@ -42,6 +42,9 @@
  ## ⚜️ Jamshid's github stats
 ![Jamshid’s GitHub stats](https://github-readme-stats.vercel.app/api?username=jamshid-abdukarimov&show_icons=true&theme=tokyonight&count_private=true)
 
+ ## ⚜️ Jamshid's leetcode stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)
+
 
 <!--
 **jamshid-abdukarimov/jamshid-abdukarimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
