@@ -1,6 +1,6 @@
 <h1 align="center"> 🧑 Hi there 
  </h1>
- <p align="center"><strong>I am Front end developer from <a href="https://goo.gl/maps/SHiKjvraCPg197E17" target="_blank">Jizzakh, Uzbekistan :uzbekistan:</a> </strong></p>
+ <p align="center"><strong>I'm a Front-end developer from <a href="https://goo.gl/maps/SHiKjvraCPg197E17" target="_blank">Jizzakh, Uzbekistan :uzbekistan:</a> </strong></p>
 <div align="center">
   <a href="https://www.instagram.com/jamshid_50_05" target="_blank"><img height="30" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" /></a>
    <a href="https://www.facebook.com/abdukarimov.jamshid.alisherovich" target="_blank"><img height="30" src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" /></a>
