@@ -11,12 +11,12 @@
 <br />
 <strong>BIO</strong>
 
-  - :four_leaf_clover: Full Name: Bakirov G`ulomjon
+  - :four_leaf_clover: Full Name: Abdukarimov Jamshid
   - 🏅 Portfolio: [jamshidabdukarimov.uz](https://jamshidabdukarimov.netlify.app)
   - 🐊 Tools: <code>Javascript</code> <code>React | Typescript</code> 
   - ➕ I'm currently learning <a href="socket.io">socket.io</a>
   - 🏢 I'm freelancer
-  - ⚙️ I use daily: <code>.js</code> <code>.jsx</code> <code>.css</code> <code>.scss</code> <code>.html</code>
+  - ⚙️ I use daily: <code>.ts</code> <code>.tsx</code> <code>.js</code> <code>.jsx</code> <code>.css</code> <code>.scss</code> <code>.html</code>
   - 🍂 Frameworks: 
       - React.js
       - jQuery
@@ -41,8 +41,8 @@
 <br />
 <br />
  
- ## ⚜️ G'ulomjon's github stats
-![G'ulomjon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=GulomjonBakirov&show_icons=true&theme=tokyonight&count_private=true)
+ ## ⚜️ Jamshid's github stats
+![Jamshid’s GitHub stats](https://github-readme-stats.vercel.app/api?username=jamshid-abdukarimov&show_icons=true&theme=tokyonight&count_private=true)
 
 
 <!--
