@@ -12,21 +12,17 @@
 <strong>BIO</strong>
 
   - :four_leaf_clover: Full Name: Bakirov G`ulomjon
-  - 🏅 Portfolio: [gulomjonbakirov.uz](https://gulomjonbakirov.netlify.app)
-  - 🐊 Tools: <code>Javascript</code> <code>Python</code> 
+  - 🏅 Portfolio: [jamshidabdukarimov.uz](https://jamshidabdukarimov.netlify.app)
+  - 🐊 Tools: <code>Javascript</code> <code>React | Typescript</code> 
   - ➕ I'm currently learning <a href="socket.io">socket.io</a>
   - 🏢 I'm freelancer
-  - ⚙️ I use daily: <code>.js</code> <code>.jsx</code> <code>.css</code> <code>.scss</code> <code>.html</code> <code>.py</code> 
+  - ⚙️ I use daily: <code>.js</code> <code>.jsx</code> <code>.css</code> <code>.scss</code> <code>.html</code>
   - 🍂 Frameworks: 
       - React.js
-      - Node.js
       - jQuery
-      - django
     
-  - 🐧 Os: Linux  Parrot.os🦜 
-  - 🐼 Team: PandaCoders 
   - ☕️ Fun fact: Any friend of coffe is a friend of mine!
-  - 📫 Reach me: <a href="mailto: bakirovgulomjon@gmail.com" target="_blank"> bakirovgulomjon@gmail.com </a> 
+  - 📫 Reach me: <a href="mailto: abdukarimov.dev@gmail.com" target="_blank"> abdukarimov.dev@gmail.com </a> 
  
 ## 🔨 Languages and Tools:
 <img align="left" alt="HTML" width="26px" src="./images/html.svg" />
