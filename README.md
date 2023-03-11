@@ -1,6 +1,6 @@
 <h1 align="center"> 🧑 Hi there 
  </h1>
- <p align="center"><strong>I am Front end developer from <a href="https://www.google.com/maps/place/%D0%94%D0%B6%D0%B8%D0%B7%D0%B0%D0%BA,+%D0%A3%D0%B7%D0%B1%D0%B5%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD/@40.0968826,67.7913526,11.48z/data=!4m6!3m5!1s0x38b29442f6b6d4d9:0x9278c40ee88910e2!8m2!3d40.1250439!4d67.8808243!16zL20vMDQybGY5?hl=ru-KG" target="_blank">Jizzakh, Uzbekistan :uzbekistan:</a> </strong></p>
+ <p align="center"><strong>I am Front end developer from <a href="https://goo.gl/maps/SHiKjvraCPg197E17" target="_blank">Jizzakh, Uzbekistan :uzbekistan:</a> </strong></p>
 <div align="center">
   <a href="https://www.instagram.com/jamshid_50_05" target="_blank"><img height="30" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" /></a>
    <a href="https://www.facebook.com/abdukarimov.jamshid.alisherovich" target="_blank"><img height="30" src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" /></a>
