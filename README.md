@@ -1,6 +1,6 @@
 <h1 align="center"> 🧔 Hi there 
  </h1>
- <p align="center"><strong>I am Software Engineer from <a href="https://www.google.com/maps/place/%D0%A2%D0%BE%D1%88%D0%BA%D0%B5%D0%BD%D1%82,+O%60zbekiston/@41.2825125,69.1392799,11z/data=!3m1!4b1!4m5!3m4!1s0x38ae8b0cc379e9c3:0xa5a9323b4aa5cb98!8m2!3d41.2994958!4d69.2400734" target="_blank">Tashkent, Uzbekistan :uzbekistan:</a> </strong></p>
+ <p align="center"><strong>I am Front end developer from <a href="https://www.google.com/maps/place/%D0%A2%D0%BE%D1%88%D0%BA%D0%B5%D0%BD%D1%82,+O%60zbekiston/@41.2825125,69.1392799,11z/data=!3m1!4b1!4m5!3m4!1s0x38ae8b0cc379e9c3:0xa5a9323b4aa5cb98!8m2!3d41.2994958!4d69.2400734" target="_blank">Tashkent, Uzbekistan :uzbekistan:</a> </strong></p>
 <div align="center">
   <a href="https://www.instagram.com/bak1rof.f/" target="_blank"><img height="30" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" /></a>
    <a href="https://www.facebook.com/gulomjon.bakirov.7/" target="_blank"><img height="30" src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" /></a>
