@@ -40,7 +40,7 @@
 <br />
  
  ## ⚜️ Jamshid's github stats
-![Jamshid’s GitHub stats](https://github-readme-stats.vercel.app/api?username=jamshid-abdukarimov&show_icons=true&theme=tokyonight&count_private=true)
+![Jamshid’s GitHub stats](https://github-readme-stats.vercel.app/api?username=jamshid-abdukarimov&show_icons=true&theme=dark&hide_border=true&border_radius=20&count_private=true)
 
  ## ⚜️ Jamshid's leetcode stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/jamshid-abdukarimov?font=milonga&ext=heatmap&border=0&radius=20)
