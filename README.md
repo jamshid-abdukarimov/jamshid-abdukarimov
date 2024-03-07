@@ -19,7 +19,7 @@
   - ⚙️ I use daily: <code>.ts</code> <code>.tsx</code> <code>.js</code> <code>.jsx</code> <code>.css</code> <code>.scss</code> <code>.html</code>
   - 🍂 Frameworks: 
       - React.js
-      - jQuery
+      - Next.js
     
   - ☕️ Fun fact: Any friend of coffe is a friend of mine!
   - 📫 Reach me: <a href="mailto: abdukarimov.dev@gmail.com" target="_blank"> abdukarimov.dev@gmail.com </a> 
